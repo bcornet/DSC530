@@ -2,5 +2,7 @@
 
 Repository for Fall 2021 assignments probably.
 
-- **Week 4:** single file and should run independently.
-- **Week 5:** requires **d3** (in the libs folder) to run, with data being downloaded from [this source](https://raw.githubusercontent.com/umassdgithub/Fall2021-Week-5-Friday/main/Exercise/data_sample.csv).
+- **Week 4:** https://bcornet.github.io/DSC530/Fall2021-Week-4-Wednesday.html
+- **Week 5:** https://bcornet.github.io/DSC530/Fall2021-Week-5-Friday.html
+- **Week 6:** https://bcornet.github.io/DSC530/Fall2021-Week-6-ClassActivity03.html
+- **Week 10:** https://bcornet.github.io/DSC530/Fall2021-Week10-Multiview.html
